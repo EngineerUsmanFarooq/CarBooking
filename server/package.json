@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "carbookin",
+=======
+  "name": "car-rental-server",
+>>>>>>> 03c61259abae1b135fd6479454898994acd3fa4b
   "version": "1.0.0",
   "description": "Car Rental Platform Backend",
   "main": "index.js",
